@@ -1,4 +1,4 @@
-# 🛡️ Cyber Buddy
+# Cyber Comrades
 
 **Cyber Buddy** is a comprehensive cybersecurity education platform that combines an intuitive Flutter desktop application with a powerful AI-driven backend. Designed for cybersecurity enthusiasts, students, and professionals, it serves as an intelligent assistant for learning cybersecurity concepts, analyzing logs, and getting expert guidance on security tools and techniques.
 
